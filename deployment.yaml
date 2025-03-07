@@ -13,5 +13,5 @@ spec:
         run: argocd-kube
     spec:
       containers:
-      - image: 
+      - image: banetta/my-repo:6b613bc
         name: argocd-kube 
